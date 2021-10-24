@@ -1,0 +1,179 @@
+
+
+
+
+
+
+*,
+*::before,
+*::after{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+html{
+	font-size: 16px;
+}
+
+
+body {
+	
+
+	line-height: 1;
+	}
+	.wrapper{
+		min-height: 100%;
+		overflow: hidde;
+	}
+	.link{
+		font-size: 50px;
+		display: inline;
+	}
+	.imeges{
+		
+		width: 50%;
+		padding: 50px;	
+		background-color: darkgoldenrod;
+		margin: 50px 0px 50px 0px;
+		display: inline-block;
+	}
+	.block{
+		background-color: blue;
+		font-size: 50px;
+		padding: 70px;
+		margin: 50px 0px 0px 0px;
+		display: block;
+	}
+	.block_1{
+		background-color: blueviolet;
+		font-size: 40px;
+		width: 100%;
+		margin: 50px auto;
+		overflow: auto;
+		display: block;
+	}
+  .block_2{
+	  margin: 50px auto;
+	  max-width: 900px;
+	  background-color: darkred;
+	  height: 30px;
+	  overflow: hidden;
+	  display: block;
+  }
+  .block_3{
+	  background-color: green;
+	
+	  height: 70px;
+	  overflow: scroll;
+	  max-width: 100%;
+	  
+	 display: block;
+  }
+  .text{
+	  
+	  font-size: 50px;
+	  display: block;
+	  padding: 50px;
+	  margin: 50px;
+	  background-color: green;
+
+  }
+  .text_2{
+	  display: none;
+	  font-size: 50px;
+  }
+  .text_3{
+	  display: block;
+
+  }
+  .text_4{
+	  font-size: 40px;
+	  display: inline-block;
+	  max-width: 200px;
+	  max-height: 200px;
+	  background-color: indigo;
+	  padding: 15px;
+	 
+  }
+  .link_1{
+	  max-width: 170px;
+	  font-size: 50px;
+	  margin: 30px 0px 0px 0px;
+	  display: block;
+	  background-color: red;
+  }
+  .text_5{
+	  font-size: 30px;
+	  display: inline;
+	  background-color: rgb(64, 224, 157);
+	  max-width: 100px;
+	  margin: 0px 30px 0px 0px;
+	  padding:10px;
+	  line-height: 50px;
+
+  }
+  .text_6{
+	  font-size: 30px;
+	  background-color: tomato;
+	  margin: 40px 0px 0px 0px;
+	  padding: 30px;
+	  display: block;
+	  
+  }
+  .text_7{
+	  font-size: 30px;
+	  background-color: yellow;
+	  padding: 30px;
+	  display: block;
+	  margin: -50px 0px -50px 0px;
+
+  }
+  .text_8{
+	  background-color: violet;
+	  font-size: 40px;
+	  max-height: 200px;
+	  margin: 100px 0px 0px 0px;
+	  overflow: scroll;
+
+  }
+  
+  
+  
+
+
+div{
+	color: gold;
+}
+	
+
+
+
+	
+
+
+	
+
